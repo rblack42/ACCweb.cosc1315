@@ -23,6 +23,16 @@ Computer Hardware and Software
     Computers/TwoStep
     Computers/ProgrammingLanguages
 
+Problem Solving Basics
+**********************
+
+..  toctree::
+    :maxdepth: 1
+
+    ProblemSolving/index
+    ProblemSolving/DataTypes
+    ProblemSolving/SquareRoot/index
+
 Assignments
 ***********
 

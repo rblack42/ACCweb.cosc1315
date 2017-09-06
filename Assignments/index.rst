@@ -11,7 +11,7 @@ different one for the 12 week sections:
     :maxdepth: 1
 
     week1_16
-
+    week2_16
 
 12 Week Assignments
 *******************
@@ -20,8 +20,10 @@ different one for the 12 week sections:
     :maxdepth: 1
 
     week1_12
+
 ..  toctree::
     :hidden:
 
     Lab1/index
     HW1/index
+    HW2/index

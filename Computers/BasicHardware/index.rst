@@ -170,7 +170,7 @@ Computing with Music
 The computer cannot hear anything, but we have invented devices that react to
 sound. We call those things microphones. 
 
-..  image:: Microphone.png
+..  image:: microphone.png
     :align: center
     :width: 500
 

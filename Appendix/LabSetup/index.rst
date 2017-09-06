@@ -68,7 +68,8 @@ Here is the link to this program.
 
 If you do not own a Windows PC at home, let me know and we will find a suitable
 replacement for Dev-C++. A common alternative is ``Code::Blocks`` which runs on
-Macs. (I use Macs a lot, so I can help you get set up.)
+Macs. (I use Macs a lot, so I can help you get set up.) Check the Appendix
+(under the Lecture Notes) for details on getting set up on other systems.
 
 ..  warning::
 
@@ -86,6 +87,6 @@ editor" which produces simple text files. A very good one is Vim, or gVim_ on
 the PC, and MacVim_ on Macs. Here are some notes on installing and getting
 started with this tool:
 
-    * `Installing Vim <../../../general/Vim/index.html>`_
+    * `Installing Vim <../../../../general/Vim/index.html>`_
 
 ..  vim:filetype=rst spell:

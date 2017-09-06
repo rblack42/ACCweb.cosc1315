@@ -19,10 +19,11 @@ import shutil
 import hashlib
 import posixpath
 
-LATEX_IMAGE_DIR = '/Users/rblack/_lib/images/'
+CWD = os.getcwd()
+LATEX_IMAGE_DIR = '_static/images/'
 IMAGE_URL = '/_images/'
-LATEX_BUILD_DIR = '/Users/rblack/_acc/tmp/images'
-BUILD_TMPDIR = '/Users/rblack/_lib/tikz'
+LATEX_BUILD_DIR = 'tmp/images'
+BUILD_TMPDIR = 'tmp/tikz'
 
 class CircuitsExtError(SphinxError):
     category = 'Tikz extension error'

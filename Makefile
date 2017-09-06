@@ -1,7 +1,7 @@
-COURSE  = general
+COURSE  = cosc1315
 TERM    = fall2017
 LOCALDIR = _build/html/
-REMOTEDIR   = www/$(COURSE)
+REMOTEDIR   = www/courses/$(COURSE)
 
 .PHONY: all
 all:    build
